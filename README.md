@@ -8,9 +8,9 @@ I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [mh8872@rit.edu](mailto:mh8872@rit.edu)
-*   🚀  I'm currently looking for a job in Cybersecurity
-*   🧠  I'm currently learning how to conduct vulnerability research and find bugs.
-*   🤝  I'm open to collaborating on any software projects or offensive team exercises!
+*   🚀  I'm currently looking for a job in Cybersecurity (specifically vulnerability research)
+*   🧠  I'm currently learning how to conduct vulnerability research.
+*   🤝  I'm open to collaborating on any software projects or finding bugs!
 
 <a href="https://github.com/Miftahul7838" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Miftahul7838?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
