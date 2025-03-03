@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miftahul Huq
 ===============================================================================================================================
 
-Cybersecurity Student @ RIT
+BS/MS Cybersecurity Student @ RIT
 --------------------------------------
 
 I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and ensuring companies follow the best cybersecurity practices.
