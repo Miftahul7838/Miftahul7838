@@ -7,8 +7,8 @@ BS/MS Cybersecurity Student @ RIT
 I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and ensuring companies follow the best cybersecurity practices.
 
 *   🌍  I'm based in New York
-*   ✉️  You can contact me at [mh8872@rit.edu](mailto:mh8872@rit.edu)
-*   🚀  I'm currently looking for a job in Cybersecurity (specifically vulnerability research)
+*   ✉️  You can contact me at [miftahulhuq16@gmail.com](mailto:miftahulhuq16@gmail.com)
+*   🚀  I'm currently looking for a job in Cybersecurity.
 *   🧠  I'm currently learning how to conduct vulnerability research.
 *   🤝  I'm open to collaborating on any software projects or finding bugs!
 
