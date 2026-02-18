@@ -8,7 +8,7 @@ I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [miftahulhuq16@gmail.com](mailto:miftahulhuq16@gmail.com)
-*   🚀  I'm currently looking for a job in Cybersecurity.
+*   🚀  I'm currently looking for a position in Cybersecurity, ideally in Penetration Testing.
 *   🧠  I'm currently learning how to conduct Penetration Testing and Vulnerability Research.
 *   🤝  I'm open to collaborating on any software projects or finding bugs!
 
