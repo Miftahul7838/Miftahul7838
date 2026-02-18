@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 BS/MS Cybersecurity graduate from RIT
 --------------------------------------
 
-I have graduate with my BS/MS in Cybersecurity from RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and network services contributing to secure infrastructure.
+I have graduate with my BS/MS in Cybersecurity from RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and network services to contribute to secure infrastructure.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [miftahulhuq16@gmail.com](mailto:miftahulhuq16@gmail.com)
