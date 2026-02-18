@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miftahul Huq
 ===============================================================================================================================
 
-BS/MS Cybersecurity Student @ RIT
+BS/MS Cybersecurity graduate from RIT
 --------------------------------------
 
-I am in my final year of a BS/MS in Cybersecurity at RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and ensuring companies follow the best cybersecurity practices.
+I have graduate with my BS/MS in Cybersecurity from RIT and have completed four internships/co-ops in the IT field. I am passionate about identifying vulnerabilities in applications and network services contributing to secure infrastructure.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [miftahulhuq16@gmail.com](mailto:miftahulhuq16@gmail.com)
