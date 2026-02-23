@@ -9,7 +9,7 @@ I have graduate with my BS/MS in Cybersecurity from RIT and have completed four 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [miftahulhuq16@gmail.com](mailto:miftahulhuq16@gmail.com)
 *   🚀  I'm currently looking for a position in Cybersecurity, ideally in Penetration Testing.
-*   🧠  I'm currently learning how to conduct Penetration Testing and Vulnerability Research.
+*   🧠  I'm currently learning how to conduct AI Penetration Testing.
 *   🤝  I'm open to collaborating on any software projects or finding bugs!
 
 <a href="https://github.com/Miftahul7838" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Miftahul7838?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
